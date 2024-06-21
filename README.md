@@ -61,7 +61,7 @@ This analysis provides valuable insights aimed at bridging educational gaps and 
 ## How to Run
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/eda-intermediate-colleges-pakistan.git
+    git clone https://github.com/MaryamTariq-1/EDA_Intermediate-Colleges-of-Pakistan_python.git
     ```
 2. Navigate to the project directory:
     ```sh
